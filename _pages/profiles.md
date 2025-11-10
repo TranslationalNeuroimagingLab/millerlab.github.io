@@ -18,13 +18,10 @@ profiles:
       <p>173 Felgar St.</p>
       <p>Norman, OK 73019</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: 1699555709777.jpg
+    content: about_paul_calle.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    more_info: 
   - align: right
     image: Diogo_photo.jpg
     content: about_diogo_cordeiro.md

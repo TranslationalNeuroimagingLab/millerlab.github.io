@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Real-time assessment of blood flow imaging during neurosurgery
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+
+We are developing a medical device, based on laser speckle contrast imaging, that enables neurosurgeons to visualize and assess blood flow in real-time and continuously during surgery.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

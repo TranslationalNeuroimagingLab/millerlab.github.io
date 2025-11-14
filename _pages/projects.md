@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: projects
 permalink: /projects/
 description: 
 nav: true
@@ -9,13 +9,14 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+The Translational Neuroimaging Lab, led by [Dr. David Miller](https://www.ou.edu/coe/sbme/people/faculty/david-miller), focuses on developing optical neuroimaging and neuroengineering tools to better understand and treat brain diseases. We are devoted to applying novel neuroimaging and therapeutic approaches for advancing the standard of care in neurosurgery and the treatment of neurological disorders.
+
 We collaborate closely with neurosurgeons Dr. Christopher Graffeo and Dr. Andrew Bauer at the OU Health Science Center (HSC) Department of Neurosurgery, which ranked #14 for NIH funding in 2023 among Neurosurgery Departments.
 
 We also collaborate closely with the Stephenson Cancer Center (SCC) at OU HSC. The SCC is a National Cancer Institute designated cancer center and is the nation’s No. 1 cancer center for patient clinical trial accrual.
 
 Funding sources include:
-
-    National Science Foundation (NSF) Seed Translational Research Project (STRP) for “Machine Learning for Real-time Detection of Complications during Neurosurgery.” (PI: Miller)
+* National Science Foundation (NSF) Seed Translational Research Project (STRP) for “Machine Learning for Real-time Detection of Complications during Neurosurgery.” (PI: Miller)
 
 
 <!-- pages/projects.md -->

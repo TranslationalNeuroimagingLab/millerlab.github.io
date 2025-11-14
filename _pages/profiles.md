@@ -47,4 +47,11 @@ profiles:
     content: about_jacqueline_stovall.md
     image_circular: false # crops the image to make it circular
     more_info:
+
+alumni:
+  - align: right
+    image: Avery.jpg
+    content: about_avery_ladymon.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 ---

@@ -1,13 +1,22 @@
 ---
 layout: page
-title: projects
+title: Research Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+We collaborate closely with neurosurgeons Dr. Christopher Graffeo and Dr. Andrew Bauer at the OU Health Science Center (HSC) Department of Neurosurgery, which ranked #14 for NIH funding in 2023 among Neurosurgery Departments.
+
+We also collaborate closely with the Stephenson Cancer Center (SCC) at OU HSC. The SCC is a National Cancer Institute designated cancer center and is the nation’s No. 1 cancer center for patient clinical trial accrual.
+
+Funding sources include:
+
+    National Science Foundation (NSF) Seed Translational Research Project (STRP) for “Machine Learning for Real-time Detection of Complications during Neurosurgery.” (PI: Miller)
+
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -35,17 +35,12 @@
 
     <div class="clearfix">
       {% if profile.content %}
-        {%- comment -%}
-        Content files like about_paul_calle.md live alongside the page
-        that uses this layout (e.g. in _pages/), so we use include_relative.
-        {%- endcomment -%}
-        {% capture profile_content %}
-          {% include_relative {{ profile.content }} %}
-        {% endcapture %}
+        {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
         {{ profile_content | markdownify }}
       {% else %}
         {{ include.content_fallback }}
       {% endif %}
     </div>
+
   {% endfor %}
 {% endif %}

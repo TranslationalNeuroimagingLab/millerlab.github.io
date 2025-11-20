@@ -2,7 +2,7 @@
 layout: page
 title: Longitudinal studies of brain tumor hemodynamics and blood vessel morphology
 description: 
-img: assets/img/Project2_small.png.jpg
+img: assets/img/Project2_small.png
 importance: 2
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Detecting complications during neurosurgery with machine learning
 description: 
-img: assets/img/Project3_small.jpg
+img: assets/img/Project3_small.png
 importance: 3
 category: work
 ---
